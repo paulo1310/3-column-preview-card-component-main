@@ -1,0 +1,106 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1, p {
+    color: var(--Very-light-gray);
+    margin-left: 48px;
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 35px;    
+}
+
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    margin-right: 48px;
+    margin-top: 25px;
+    line-height: 25px;
+    opacity: 0.75;
+}
+
+ul {
+    width: 920px;
+    height: 500px;
+    display: flex;
+}
+
+ul li {
+    width: 307px;
+}
+
+li img{
+    margin-left: 48px;
+    margin-top: 48px;
+}
+
+li button {
+    margin-left: 48px;
+    margin-top: 83px;
+    width: 146px;
+    height: 48px;
+    border-radius: 25px;
+    border: none;
+    
+}
+
+ul .sedans {
+    background-color: var(--Bright-orange);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+ul .suvs {
+    background-color: var(--Dark-cyan);
+}
+
+ul .luxury {
+    background-color: var(--Very-dark-cyan);
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+button {
+    font-family: Lexend Deca;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.sedans button {
+    color: var(--Bright-orange);
+}
+
+.suvs button {
+    color: var(--Dark-cyan);
+}
+
+.luxury button {
+    color: var(--Very-dark-cyan);
+}
+
+.sedans button:hover{
+    border: 2px solid #FFF;
+    background-color: var(--Bright-orange);
+    color: #FFFFFF;
+}
+
+.suvs button:hover{
+    border: 2px solid #FFF;
+    background-color: var(--Dark-cyan);
+    color: #FFFFFF;
+}
+
+.luxury button:hover{
+    border: 2px solid #FFF;
+    background-color: var(--Very-dark-cyan);
+    color: #FFFFFF;
+}
