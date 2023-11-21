@@ -38,8 +38,8 @@ Obrigado por chegar até aqui, confira o código!
 
 ### Links
 
-- Solution URL: [Adicionar url do Github](https://your-solution-url.com)
-- Live Site URL: [Add github pages](https://your-live-site-url.com)
+- Solution URL: [https://github.com/paulo1310/3-column-preview-card-component-main](https://github.com/paulo1310/3-column-preview-card-component-main)
+- Live Site URL: [https://paulo1310.github.io/3-column-preview-card-component-main/](https://paulo1310.github.io/3-column-preview-card-component-main/)
 
 ## Meu processo
 
